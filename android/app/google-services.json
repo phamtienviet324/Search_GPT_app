@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576301892276",
+    "project_id": "searchapp-e15d8",
+    "storage_bucket": "searchapp-e15d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576301892276:android:c5ad99d72bda04a05e0de1",
+        "android_client_info": {
+          "package_name": "com.example.searchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPRYI0Lyv_XHVhIiExrDJq4swCTk1Mkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
